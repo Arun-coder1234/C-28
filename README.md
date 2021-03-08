@@ -1,2 +1,2 @@
-# C-28
-Slingshot
+# angryBirdsStage2
+Added platform to the game
